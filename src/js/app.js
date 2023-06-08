@@ -21,6 +21,8 @@
     }
  */
 
+import "../style/index.css";
+
 // gets you the name place holder
 function getName(variables) {
   let fullName = ""; // full name
